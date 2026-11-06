@@ -1,16 +1,87 @@
-## Hi there 👋
+# 👋 Hi, I'm **Akolurejo Victor Tobi**
 
-<!--
-**akolurejovictortobi-arch/akolurejovictortobi-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏛️ Architect | 💻 Full-Stack Developer
 
-Here are some ideas to get you started:
+**Designing Spaces. Engineering Digital Experiences.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I'm an Architect and Full-Stack Developer passionate about combining creativity, technical thinking, and innovation to create meaningful solutions.
+
+My work bridges two disciplines: designing functional, aesthetically refined architectural spaces and developing modern, scalable digital experiences.
+
+---
+
+## 🏛️ ARCHITECTURE & DESIGN
+
+- Architectural planning and design development
+- 3D modelling and architectural visualization
+- Contemporary residential and commercial design
+- Building documentation and presentation
+
+**Architecture Tools:**
+
+\
+
+
+---
+
+## 💻 SOFTWARE ENGINEERING
+
+- Full-stack web development
+- Responsive and modern web interfaces
+- Frontend development and backend engineering
+- Database design and application development
+- UI/UX and digital product experiences
+
+---
+
+## 🛠️ TECHNOLOGIES & TOOLS
+
+### FRONTEND
+
+
+
+
+
+\
+
+
+### DEVELOPMENT TOOLS
+
+
+\
+
+
+### ARCHITECTURE
+
+\
+
+
+---
+
+## 🚀 WHAT I'M WORKING ON
+
+- Building modern web applications and digital products.
+- Developing my architectural design portfolio.
+- Exploring innovative ways to connect architecture and technology.
+- Continuously improving my software engineering and design skills.
+
+---
+
+## 📌 FEATURED PROJECTS
+
+Explore my repositories for architectural concepts, web development projects, and experiments.
+
+---
+
+## 🤝 LET'S CONNECT
+
+- **🌐 Portfolio:** [https://avtportfoilo-avt-portfolio.vercel.app](https://avtportfoilo-avt-portfolio.vercel.app)
+- **💼 LinkedIn:** [https://www.linkedin.com/in/akolurejovictortobi](https://www.linkedin.com/in/akolurejovictortobi)
+- **📧 Email:** akolurejovictortobi\@gmail.com
+- **🐙 GitHub:** [https://github.com/akolurjovictortobi-arch](https://github.com/akolurjovictortobi-arch)
+
+---
+
+### ✦ DESIGN WITH PURPOSE. BUILD WITH PRECISION. CREATE WITH INNOVATION. ✦
